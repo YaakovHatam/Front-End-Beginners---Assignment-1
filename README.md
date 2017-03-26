@@ -2,7 +2,7 @@
 
 The css file is given to you, you should use the following HTML tags:
 
-* <header>
+* `HTML <header>
 * <nav>
 * <ul>
 <li>
