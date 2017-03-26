@@ -2,20 +2,20 @@
 
 The css file is given to you, you should use the following HTML tags:
 
-* `HTML <header>
-* <nav>
-* <ul>
-<li>
-<a>              
-<main>
-<section>
-<h2>
-<p>    
-<footer>
-<address>             
-<small>
-<div>
-<em>
+* `<header>`
+* `<nav>`
+* `<ul>`
+`<li>`
+`<a>`
+`<main>`
+`<section>`
+`<h2>`
+`<p>`
+`<footer>`
+`<address>`
+`<small>`
+`<div>`
+`<em>`
 
         
     
