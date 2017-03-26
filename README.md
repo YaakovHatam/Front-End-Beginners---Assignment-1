@@ -1,24 +1,27 @@
 # Front-End-Beginners---Assignment-1
 
+## HTML tags
+
 The css file is given to you, you should use the following HTML tags:
 
+### Block level tags
 * `<header>`
 * `<nav>`
 * `<ul>`
-`<li>`
-`<a>`
-`<main>`
-`<section>`
-`<h2>`
-`<p>`
-`<footer>`
-`<address>`
-`<small>`
-`<div>`
-`<em>`
+* `<li>`
+* `<main>`
+* `<section>`
+* `<h2>`
+* `<p>`
+* `<footer>`
+* `<address>`
+* `<div>`
 
-        
-    
+### Inline level tags
+* `<a>`
+* `<small>`
+* `<em>`
+
 
 ## Basic html page
 
