@@ -1,5 +1,20 @@
 # Front-End-Beginners---Assignment-1
 
+## Basic html page
+```HTML
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>My book store</title>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+
+</body>
+</html>
+```
+
 ## HTML tags
 
 The css file is given to you, you should use the following HTML tags:
@@ -21,9 +36,6 @@ The css file is given to you, you should use the following HTML tags:
 * `<a>`
 * `<small>`
 * `<em>`
-
-
-## Basic html page
 
 
 ## Result
