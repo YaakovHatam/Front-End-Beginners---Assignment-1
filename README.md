@@ -41,7 +41,7 @@ The css file is given to you, you should use the following HTML tags:
 ## Result
 Should look like :
 
-https://kob-e.github.io/Front-End-Beginners---Assignment-1/result.html
+https://yaakovhatam.github.io/Front-End-Beginners---Assignment-1/result.html
 
 ## Reference material
 Download Brackets:
